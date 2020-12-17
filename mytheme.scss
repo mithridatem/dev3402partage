@@ -1,0 +1,9 @@
+$theme-colors:(
+    "primary": #D3993C,
+    "secondary": #30211D,
+    "test": #251f1f,
+);
+
+$navbar-dark-brand-color: $color-primary;
+
+@import "./scss/bootstrap.scss";
