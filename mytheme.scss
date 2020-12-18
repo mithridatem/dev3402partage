@@ -1,0 +1,20 @@
+$couleur-primaire: #fcf9fb;
+$couleur-secondaire: #1F1410;
+
+$theme-colors: (
+"primary": #252325,
+"secondary": #1F1410,
+"macouleur": #b13525,
+"fond": gray,
+//"macouleur": #DB701A
+
+);
+
+.navbar-default .navbar-brand {
+    color:#000;
+}
+
+$navbar-dark-brand-color: $couleur-primaire;
+$navbar-dark-brand-hover-color: theme-color-level(primary, 2);
+
+@import "./scss/bootstrap.scss";
