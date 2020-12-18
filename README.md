@@ -1,3 +1,2 @@
 # dev3402partage
-
-MERCI!
+Projet Fil Rouge débuté ce 18 décembre
